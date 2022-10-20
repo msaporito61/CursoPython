@@ -1,0 +1,18 @@
+ibm/
+    __init__.py       Inicializar el modulo 
+    delivery/
+        __init__.py
+        fibo.py
+        test.py 
+    compras/
+        __init__.py
+        iva.py
+    ventas/
+        __init__.py
+        comisiones.py
+    marketing/
+        __init__.py
+        propaganda.py 
+
+
+========================================================
