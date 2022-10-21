@@ -1,0 +1,8 @@
+2022-10-21 11:46:06,602 - Demostracion - WARNING - mensaje de alerta
+2022-10-21 11:46:06,602 - Demostracion - ERROR - mensaje de error
+2022-10-21 11:46:06,602 - Demostracion - CRITICAL - mensaje critico
+2022-10-21 11:47:47,873 - Demostracion - DEBUG - mensaje debug
+2022-10-21 11:47:47,874 - Demostracion - INFO - mensaje info
+2022-10-21 11:47:47,874 - Demostracion - WARNING - mensaje de alerta
+2022-10-21 11:47:47,874 - Demostracion - ERROR - mensaje de error
+2022-10-21 11:47:47,874 - Demostracion - CRITICAL - mensaje critico
