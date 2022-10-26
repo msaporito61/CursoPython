@@ -1,0 +1,19 @@
+services:
+    apiclub:
+      build: .
+      networks:
+        - club
+      ports: 
+        - "8000:8000"
+      depends_on:
+        - baseclub
+    baseclub:
+      image: mongo
+      networks:
+        - club
+      volumes:
+        - ./volumes:/data/db    
+
+networks:
+    club:
+      name: backend_club
