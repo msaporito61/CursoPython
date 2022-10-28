@@ -1,0 +1,7 @@
+README.md
+main.py
+setup.py
+PaqueteSumar.egg-info/PKG-INFO
+PaqueteSumar.egg-info/SOURCES.txt
+PaqueteSumar.egg-info/dependency_links.txt
+PaqueteSumar.egg-info/top_level.txt

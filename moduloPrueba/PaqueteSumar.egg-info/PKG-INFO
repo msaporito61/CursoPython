@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: PaqueteSumar
+Version: 0.0.1
+Summary: Un paquete para sumar numeros
+Home-page: https://github.com/msaporito61/CursoPython
+Author: Juan Perez
+Author-email: jperez@mail.com
+License: UNKNOWN
+Description: Instrucciones
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
